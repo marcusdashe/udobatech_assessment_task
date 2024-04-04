@@ -11,4 +11,3 @@ class DatabaseHelper {
     return await MySqlConnection.connect(settings);
   }
 }
-
